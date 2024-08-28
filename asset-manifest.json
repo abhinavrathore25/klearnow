@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/klearnow/static/css/main.887fd3be.css",
+    "main.js": "/klearnow/static/js/main.61c1ee73.js",
+    "static/js/453.8c21210a.chunk.js": "/klearnow/static/js/453.8c21210a.chunk.js",
+    "index.html": "/klearnow/index.html",
+    "main.887fd3be.css.map": "/klearnow/static/css/main.887fd3be.css.map",
+    "main.61c1ee73.js.map": "/klearnow/static/js/main.61c1ee73.js.map",
+    "453.8c21210a.chunk.js.map": "/klearnow/static/js/453.8c21210a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.887fd3be.css",
+    "static/js/main.61c1ee73.js"
+  ]
+}
